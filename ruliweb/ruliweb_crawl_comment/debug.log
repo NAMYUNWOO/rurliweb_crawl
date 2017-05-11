@@ -1,0 +1,21 @@
+[0503/155241.034:ERROR:process_reader_win.cc(114)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다.  (0xc0000022)
+[0503/155241.035:ERROR:exception_snapshot_win.cc(87)] thread ID 9592 not found in process
+[0503/155241.035:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0503/174959.001:ERROR:process_reader_win.cc(114)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다.  (0xc0000022)
+[0503/174959.002:ERROR:exception_snapshot_win.cc(87)] thread ID 11212 not found in process
+[0503/174959.002:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0504/031832.416:ERROR:process_reader_win.cc(114)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다.  (0xc0000022)
+[0504/031832.416:ERROR:exception_snapshot_win.cc(87)] thread ID 7740 not found in process
+[0504/031832.416:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0504/033007.334:ERROR:process_reader_win.cc(114)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다.  (0xc0000022)
+[0504/033007.335:ERROR:exception_snapshot_win.cc(87)] thread ID 8320 not found in process
+[0504/033007.335:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0504/101554.169:ERROR:process_reader_win.cc(114)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다.  (0xc0000022)
+[0504/101554.169:ERROR:process_reader_win.cc(114)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다.  (0xc0000022)
+[0504/101554.169:ERROR:exception_snapshot_win.cc(87)] thread ID 19784 not found in process
+[0504/101554.169:ERROR:exception_snapshot_win.cc(87)] thread ID 10228 not found in process
+[0504/101554.169:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0504/101554.169:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0504/101554.185:ERROR:process_reader_win.cc(114)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다.  (0xc0000022)
+[0504/101554.185:ERROR:exception_snapshot_win.cc(87)] thread ID 28032 not found in process
+[0504/101554.185:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed

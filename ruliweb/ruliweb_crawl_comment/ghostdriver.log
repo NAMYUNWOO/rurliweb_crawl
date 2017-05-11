@@ -1,0 +1,38 @@
+[INFO  - 2017-05-03T17:17:05.584Z] GhostDriver - Main - running on port 2253
+[INFO  - 2017-05-03T17:17:06.678Z] Session [5555c610-3024-11e7-9425-69eb587cd0ae] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-05-03T17:17:06.678Z] Session [5555c610-3024-11e7-9425-69eb587cd0ae] - page.customHeaders:  - {}
+[INFO  - 2017-05-03T17:17:06.678Z] Session [5555c610-3024-11e7-9425-69eb587cd0ae] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-05-03T17:17:06.678Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5555c610-3024-11e7-9425-69eb587cd0ae
+[ERROR - 2017-05-03T17:19:52.737Z] Session [5555c610-3024-11e7-9425-69eb587cd0ae] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'this.el.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-03T17:19:52.737Z] Session [5555c610-3024-11e7-9425-69eb587cd0ae] - page.onError - stack:
+  pause (http://s1.daumcdn.net/svc/original/U03/cssjs/monet/player-18b69236b1.min.js:3)
+  (anonymous function) (http://s1.daumcdn.net/svc/original/U03/cssjs/monet/player-18b69236b1.min.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-03T17:20:55.964Z] Session [5555c610-3024-11e7-9425-69eb587cd0ae] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'this.el.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-03T17:20:55.964Z] Session [5555c610-3024-11e7-9425-69eb587cd0ae] - page.onError - stack:
+  pause (http://s1.daumcdn.net/svc/original/U03/cssjs/monet/player-18b69236b1.min.js:3)
+  (anonymous function) (http://s1.daumcdn.net/svc/original/U03/cssjs/monet/player-18b69236b1.min.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-03T17:20:55.965Z] Session [5555c610-3024-11e7-9425-69eb587cd0ae] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'this.el.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-03T17:20:55.965Z] Session [5555c610-3024-11e7-9425-69eb587cd0ae] - page.onError - stack:
+  pause (http://s1.daumcdn.net/svc/original/U03/cssjs/monet/player-18b69236b1.min.js:3)
+  (anonymous function) (http://s1.daumcdn.net/svc/original/U03/cssjs/monet/player-18b69236b1.min.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-03T17:20:55.966Z] Session [5555c610-3024-11e7-9425-69eb587cd0ae] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'this.el.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-05-03T17:20:55.966Z] Session [5555c610-3024-11e7-9425-69eb587cd0ae] - page.onError - stack:
+  pause (http://s1.daumcdn.net/svc/original/U03/cssjs/monet/player-18b69236b1.min.js:3)
+  (anonymous function) (http://s1.daumcdn.net/svc/original/U03/cssjs/monet/player-18b69236b1.min.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-05-03T17:22:05.582Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
